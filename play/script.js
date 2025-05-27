@@ -227,7 +227,7 @@ const cards = [
         rareName: "Божественная",
         attack: 18500,
         health: 18000,
-        img: "./images/b",
+        img: "./images/barbossa.jpg",
         price: 27000
     },
 ];
